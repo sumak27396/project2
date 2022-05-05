@@ -1,4 +1,5 @@
 #!/bin/bash
+#to find smallest array
 set -x
 num="600 200 500 100 50 300"
 min=$num
